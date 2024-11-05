@@ -17,7 +17,7 @@
 import HomeSection from "./sections/HomeSection";
 
 // ID da sua Webscene
-export const websceneId = "SEU_WEBSCENE_ID_AQUI";
+export const websceneId = "95db200a05f44ad9bd97643e73c7d627";
 
 // URL do portal (se necessário)
 export const portalUrl = "https://smart-sky.maps.arcgis.com";
